@@ -1,7 +1,4 @@
-using System.Collections;
 using UnityEngine;
-using System.Collections.Generic;
-using UnityEngine.SocialPlatforms.Impl;
 
 public class Basket : MonoBehaviour
 {

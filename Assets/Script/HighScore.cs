@@ -1,6 +1,4 @@
-using System.Collections;
 using UnityEngine;
-using System.Collections.Generic;
 using UnityEngine.UI;     // We need this line for uGUI to work.
 
  public class HighScore : MonoBehaviour

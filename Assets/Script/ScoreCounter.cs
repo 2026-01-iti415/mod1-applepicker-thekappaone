@@ -1,6 +1,4 @@
-using System.Collections;
 using UnityEngine;
-using System.Collections.Generic;
 using UnityEngine.UI; // This line enables use of uGUI classes like Text.        // a
 
  public class ScoreCounter : MonoBehaviour
