@@ -1,7 +1,8 @@
 using UnityEngine;
-using UnityEngine.UI;     // We need this line for uGUI to work.
+using UnityEngine.UI;
+// We need this line for uGUI to work.
 
- public class HighScore : MonoBehaviour
+public class HighScore : MonoBehaviour
 {
      static private Text _UI_TEXT;                                        // a
      static private int _SCORE = 1000;                                   // b
